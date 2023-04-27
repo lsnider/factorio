@@ -1,4 +1,4 @@
-## V2
+## V2 - 3.0k Low Density Structures per minute
 
 <a href="LDS v2 3.0K.txt">RECIPE: LDS v2 3.0K</a>
 
@@ -10,7 +10,7 @@
 
 ---
 
-## V1
+## V1 - 2.5k Low Density Structures per minute
 
 <a href="LDS v1 2.5K.txt">RECIPE: LDS v1 2.5K</a>
 
@@ -27,7 +27,7 @@
 
 ---
 
-## V0
+## V0 - 1.5k Low Density Structures per minute
 <a href="LDS v0 1.5K.txt">RECIPE: LDS v0 1.5K</a>
 
 <img src="../images/LDS v0 1.5K.png" alt="LDS v1 1.5K" width="630" height="740">
