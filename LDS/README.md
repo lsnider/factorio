@@ -2,7 +2,9 @@
 
 <a href="LDS v2 3.0K.txt">RECIPE: LDS v2 3.0K</a>
 
-<img src="../images/LDS v2 3.0K.png" alt="LDS v2 3.0K" width="630" height="740">
+<img src="../images/LDS v2 3.0K.png" alt="LDS v2 3.0K" width="500" height="">
+<img src="../images/LDS v2 Graph.png" alt="LDS v2 Graph" width="500" height="">
+
 
 - Added 2 trains per train station
 - Upgraded unloader to empty both trains at the same time but fall back to one train unloading to both lanes if only one train is present
@@ -14,7 +16,8 @@
 
 <a href="LDS v1 2.5K.txt">RECIPE: LDS v1 2.5K</a>
 
-<img src="../images/LDS v1 2.5K.png" alt="LDS v1 2.5K" width="630" height="740">
+<img src="../images/LDS v1 2.5K.png" alt="LDS v1 2.5K" width="500" height="">
+<img src="../images/LDS v1 Graph.png" alt="LDS v1 Graph" width="500" height="">
 
 - New UPS efficient style
 - 3.6k less belts (74% reduction)
@@ -30,4 +33,4 @@
 ## V0 - 1.5k Low Density Structures per minute
 <a href="LDS v0 1.5K.txt">RECIPE: LDS v0 1.5K</a>
 
-<img src="../images/LDS v0 1.5K.png" alt="LDS v1 1.5K" width="630" height="740">
+<img src="../images/LDS v0 1.5K.png" alt="LDS v0 1.5K" width="500" height="">
