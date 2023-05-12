@@ -29,3 +29,4 @@
 <a href="GreenCircuit v0 Recipe.txt">RECIPE: GreenCircuit v0 Recipe</a>
 
 <img src="GreenCircuit v0 Recipe.png" alt="GreenCircuit v0 Recipe" width="500" height="">
+<img src="GreenCircuit v0 Graph.png" alt="GreenCircuit v0 Graph" width="500" height="">
